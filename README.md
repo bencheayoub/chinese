@@ -1,7 +1,7 @@
 # **Writeup: Chinese Cipher Challenge**  
 **Category**: Cryptography  
 **Points**: 100  
-**Solves**: 0  
+**Solves**: 0/5.  
 
 ## **Initial Observations**  
 We are given an unusual ciphertext:  
