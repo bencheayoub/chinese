@@ -7,7 +7,7 @@
 We are given an unusual ciphertext:  
 ```
 籀簿 簼簿 籂簿 籮簻 籂簻 簾簽 籂簿 籮簻 籭簿 簾簽 籮簿 籫簻 簺簿 籂簾 籀簾 簾簾
-```  
+```
 At first glance, it appears to be Chinese characters, but each "word" consists of exactly two characters—an unusual pattern that suggests encoding rather than natural language.  
 
 ## **Decryption Process**  
